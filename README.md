@@ -20,7 +20,7 @@ Materials: two 25 cm pipes, two [add-on crossovers 137](https://www.keyclampstor
 ### Sereni's wide adjustable
 ![](sereni-adjustable.jpeg)
 
-This mod adjusts to any height and distance via rotation and extension of the back pipes. Use longer pipes for greater range. The clamps on the DDR bar are at their widest position, limited because of the bar curve.
+This mod adjusts to any height and distance via rotation and extension of the back pipes. For example, rotating them to be parallel to the floor would bring the bar up. Using more free length from the back would bring it forward. Use longer pipes for greater range. The clamps on top are at their widest position, limited by the red bar curve.
 
 Materials: two 20 cm pipes, one pipe of your desired bar width, four [add-on crossovers 137](https://www.keyclampstore.com/add-on-crossover-42mm-137-42-c).
 
