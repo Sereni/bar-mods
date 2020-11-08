@@ -11,17 +11,36 @@ Some things I learned:
 ## Mod examples
 
 ### Sereni's low two-pipe
-Adjustable width and distance (via angle). Lower height, limited at 85 cm or lower by the curve of the bar.
+![](sereni-low.jpeg)
+
+Adjustable width or distance. Lower height, limited at 85 cm or lower by the curve of the bar.
+
 Materials: two 25 cm pipes, two [add-on crossovers 137](https://www.keyclampstore.com/add-on-crossover-42mm-137-42-c).
 
 ### Sereni's wide adjustable
+![](sereni-adjustable.jpeg)
+
 This mod adjusts to any height and distance via rotation and extension of the back pipes. Use longer pipes for greater range. The clamps on the DDR bar are at their widest position, limited because of the bar curve.
+
 Materials: two 20 cm pipes, one pipe of your desired bar width, four [add-on crossovers 137](https://www.keyclampstore.com/add-on-crossover-42mm-137-42-c).
 
 ### ITGaz's high and wide
+![](itgaz-high.jpg)
+
 This configuration can be adjusted for height as high as the side pipes permit.
+
 Materials: long pipes, a cross pipe of desired width, two add-on crossovers, zip ties.
 
 ### atomcat's high and wide
+![](atomcat-high.jpeg)
+
 This mod makes a fixed wider and slightly higher bar.
+
 Materials: one pipe, two clamp-on swivel connectors.
+
+### Bonus: not scaffolding
+![](sereni-straps.jpeg)
+
+A light and mostly stable bar-lowering mod for all your travel needs. Played on this for a few weeks and even leveled up!
+
+Materials: four heavy duty buckle straps, a massage roller, foam padding.
