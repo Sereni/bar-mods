@@ -10,6 +10,14 @@ Some things I learned:
 
 ## Mod examples
 
+### Sidro's high and wide
+
+![](sidro-high.jpeg)
+
+If you just want your bar wide and slightly higher, this is by far the simplest and cheapest option. Can also be tilted forward.
+
+Materials: PVC pipe, 4-inch worm [hose clamps](https://en.wikipedia.org/wiki/Hose_clamp)
+
 ### Sereni's low two-pipe
 ![](sereni-low.jpeg)
 
