@@ -12,7 +12,7 @@ Some things I learned:
 
 ### Sidro's high and wide
 
-![](sidro-high.jpeg)
+![](sidro-high.jpg)
 
 If you just want your bar wide and slightly higher, this is by far the simplest and cheapest option. Can also be tilted forward.
 
